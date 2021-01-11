@@ -1,6 +1,6 @@
 # Banking Application
-## First Java Personal Project
-## Derived and modified from https://compscicentral.com/java-projects-for-beginners/
+First Java Personal Project <br>
+Derived and modified from https://compscicentral.com/java-projects-for-beginners/
 
 ### Dec 27, 2020
 - added two(2) auto-generated method subs
